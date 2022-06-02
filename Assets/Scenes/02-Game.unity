@@ -7524,12 +7524,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DontDestroyOnLoad: 0
-  _minStandHeight: 0.5
+  _minStandHeight: 0.6
   _maxStandHeight: 2.5
   _minStandWidth: 0.3
   _maxStandWidth: 2
-  _minStandSeparation: 1.1
-  _maxStandSeparation: 3.5
+  _minStandSeparation: 1.2
+  _maxStandSeparation: 3.2
   _stand: {fileID: 3663268579480449576, guid: bff2ece060336d64d982e5e9b7e4fe79, type: 3}
 --- !u!1 &1297357981
 GameObject:
